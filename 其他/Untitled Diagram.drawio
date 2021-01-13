@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T13:09:22.731Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="xstv5W9h3IA467LWn_nW" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T06:05:29.173Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mP7HJT4caTIpe613ouDP" version="14.1.9" type="github">
   <diagram id="TQflrEqUvzHknFjhDnZb" name="Page-1">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O5W_SwSmdXCWF6a3Vldc-1" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O5W_SwSmdXCWF6a3Vldc-1" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O5W_SwSmdXCWF6a3Vldc-5" value="算法神经网络搭建" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O5W_SwSmdXCWF6a3Vldc-5" value="算法神经网络搭建" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O5W_SwSmdXCWF6a3Vldc-6" value="训练网络" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O5W_SwSmdXCWF6a3Vldc-6" value="训练网络" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O5W_SwSmdXCWF6a3Vldc-8" value="固化模型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O5W_SwSmdXCWF6a3Vldc-8" value="固化模型" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
